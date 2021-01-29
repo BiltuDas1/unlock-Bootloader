@@ -71,7 +71,7 @@ features:
 
 ![Device Connected Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-142700_Bugjaeger.jpg?raw=true)
 
-7. [HOST] When your Android Device is boot into FastBoot mode, goto in the **Fastboot** section and click on the **Command** button, It will open a command window.  
+7. [HOST] When your Android Device is boot into FastBoot mode, goto in the **Fastboot** section and click on the **Fastboot Shell** button, It will open a command window.  
 
 ![Fastboot Section, Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-153445_Bugjaeger.jpg?raw=true)
 
@@ -85,4 +85,20 @@ features:
 **Fastboot flashing unlock**  
 **fastboot reboot**  
 
-10. Now your Device's Bootloader is unlocked.  
+10. Now your Device's Bootloader is unlocked. 
+
+## How to install custom recovery using Bugjaeger??
+If you has not any PC, you can use Bugjaeger to flash custom recovery.  
+
+1. At first you need to reboot your device to fastboot.  
+2. [HOST] Open Fastboot Shell.
+3. [HOST] Type **Fastboot Devices** into the command Window. 
+4. [HOST] If your device is ready to use then type the below commands.  
+
+**Fastboot flash recovery [recovery.img]**  
+**fastboot reboot** 
+
+If you has not any recovery.img file, then you can download TWRP, just rename the file to recovery.img
+
+# Contact
+If you has any query then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
