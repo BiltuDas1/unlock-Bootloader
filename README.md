@@ -91,14 +91,14 @@ features:
 If you has not any PC, you can use Bugjaeger to flash custom recovery.  
 
 1. At first you need to reboot your device to fastboot.  
-2. [HOST] Open Fastboot Shell.
-3. [HOST] Type **Fastboot Devices** into the command Window. 
+2. [HOST] Open Fastboot Shell.  
+3. [HOST] Type **Fastboot Devices** into the command Window.  
 4. [HOST] If your device is ready to use then type the below commands.  
 
 **Fastboot flash recovery [recovery.img]**  
-**fastboot reboot** 
+**fastboot reboot**  
 
-If you has not any recovery.img file, then you can download TWRP, just rename the file to recovery.img
+If you has not any recovery.img file, then you can download [TWRP](https://github.com/BiltuDas1/RootUnlocker/tree/main/TWRPAIO), just rename the file to recovery.img
 
 # Contact
 If you has any query then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
