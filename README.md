@@ -33,3 +33,5 @@ You can unlock bootloader using your Computer or any other Android Phone (Which 
 **fastboot reboot**
 
 10. Now your Device will be started by factory resetting with unlocked bootloader.  
+
+<img src="https://raw.githubusercontent.com/BiltuDas1/unlock-Bootloader/main/Images/Screenshot_20210129-142108.png"></img>
