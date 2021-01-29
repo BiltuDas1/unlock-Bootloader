@@ -19,7 +19,7 @@ You can unlock bootloader using Windows-Android or Android-Android method (Requi
 **PC = A Windows Computer**  
 **MOB  = Which Device will be used for unlocking bootloader.**  
 
-1. Download ADB & Fastboot, and your Phone Driver.  
+1. Download [ADB & Fastboot](https://github.com/BiltuDas1/unlock-Bootloader/tree/main/ADB%20%26%20Fastboot), and your Phone Driver.  
 2. [PC] Keep all ADB & Fastboot files into a folder.  
 3. [PC] Install The Device Driver.  
 4. [PC] Hold the **Shift Key** and Right click on the Folder, Click on the **Open Command Window Here**  
