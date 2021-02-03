@@ -3,6 +3,8 @@ Unlock bootloader into your Android Phone for installing Custom Roms.
 
 **Warning ⚠️ : By unlocking bootloader, Your Android Phone warranty will be void.**  
 
+[![Open Source Helpers](https://www.codetriage.com/biltudas1/unlock-bootloader/badges/users.svg)](https://www.codetriage.com/biltudas1/unlock-bootloader)
+
 # How to do?  
 You can unlock bootloader using Windows-Android or Android-Android method (Requires OTG).  
 
