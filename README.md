@@ -103,4 +103,4 @@ If you has not any PC, you can use Bugjaeger to flash custom recovery.
 If you has not any recovery.img file, then you can download [TWRP](https://github.com/BiltuDas1/RootUnlocker/tree/main/TWRPAIO), just rename the file to recovery.img
 
 # Contact
-If you has any query then you can contact me at [STOPBACK](https://www.stopback.tk/p/contact-us.html)
+If you has any query then you can contact me at [Telegram](https://t.me/BiltuDas1)
