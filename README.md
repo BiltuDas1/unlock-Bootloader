@@ -1,5 +1,6 @@
 [![SL Scan](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml)
 [![Open Source Helpers](https://www.codetriage.com/biltudas1/unlock-bootloader/badges/users.svg)](https://www.codetriage.com/biltudas1/unlock-bootloader)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-critical.svg)](https://www.buymeacoffee.com/stopback)
 # Unlock Bootloader
 Unlock bootloader into your Android Phone for installing Custom Roms.  
 
