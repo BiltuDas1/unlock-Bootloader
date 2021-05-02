@@ -1,9 +1,9 @@
+[![SL Scan](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml)
+[![Open Source Helpers](https://www.codetriage.com/biltudas1/unlock-bootloader/badges/users.svg)](https://www.codetriage.com/biltudas1/unlock-bootloader)
 # Unlock Bootloader
 Unlock bootloader into your Android Phone for installing Custom Roms.  
 
 **Warning ⚠️ : By unlocking bootloader, Your Android Phone warranty may be void.**  
-
-[![Open Source Helpers](https://www.codetriage.com/biltudas1/unlock-bootloader/badges/users.svg)](https://www.codetriage.com/biltudas1/unlock-bootloader)
 
 # How to do?  
 You can unlock bootloader using Windows-Android or Android-Android method (Requires OTG).  
