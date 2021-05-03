@@ -35,9 +35,16 @@ You can unlock bootloader using Windows-Android or Android-Android method (Requi
 7. [MOB] Now you need to confirm the USB connection.  
 8. [PC] If you see your Device code into the command window, It means the device is ready to use. If your Device is not listened there then check your Cable or Device Driver.  
 9. [PC] If your device is ready to use then type the below commands into the command window.  
-**ADB reboot bootloader**  
-**Fastboot flashing unlock**  
-**fastboot reboot**  
+
+```
+ADB reboot bootloader  
+```
+```
+Fastboot flashing unlock  
+```
+```
+Fastboot reboot  
+```
 
 10. Now your Device will be started by factory resetting with unlocked bootloader.  
 
@@ -85,8 +92,12 @@ features:
 9. [HOST] If you see your Device code into the command window, It means the device is ready to use. If your Device is not listened there then check your Cable or OTG.  
 10. [HOST] If your device is ready to use then type the below commands.  
 
-**Fastboot flashing unlock**  
-**fastboot reboot**  
+```
+Fastboot flashing unlock
+```
+```
+fastboot reboot  
+```
 
 10. Now your Device's Bootloader is unlocked. 
 
@@ -98,8 +109,12 @@ If you has not any PC, you can use Bugjaeger to flash custom recovery.
 3. [HOST] Type **Fastboot Devices** into the command Window.  
 4. [HOST] If your device is ready to use then type the below commands.  
 
-**Fastboot flash recovery [recovery.img]**  
-**fastboot reboot**  
+```
+Fastboot flash recovery [recovery.img]  
+```
+```
+fastboot reboot  
+```
 
 If you has not any recovery.img file, then you can download [TWRP](https://github.com/BiltuDas1/RootUnlocker/tree/main/TWRPAIO), just rename the file to recovery.img
 
