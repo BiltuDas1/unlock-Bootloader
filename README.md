@@ -69,7 +69,7 @@ features:
 **HOST = An Android Phone**  
 **MOB  = Which Device will be used for unlocking bootloader.**  
 
-1. [HOST] Download Bugjaeger.apk file and install it.  
+1. [HOST] Download [Bugjaeger.apk](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Bugjaeger%20Premium%20v2.4-full.apk) file and install it.  
 2. [MOB] Goto your Device **Settings > About Phone > Build Number** and press it about 7 times. Then find out into your Phone **Development Options** and turn on **USB Debugging**.  
 3. Now Connect your Android Device (HOST) to your another Android Device (MOB) using an OTG.  
 4. [HOST] If the OTG connected successfully then Bugjaeger will be opened automatically.  
