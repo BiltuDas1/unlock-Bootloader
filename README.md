@@ -38,11 +38,9 @@ You can unlock bootloader using Windows-Android or Android-Android method (Requi
 
 ```
 ADB reboot bootloader  
-```
-```
+
 Fastboot flashing unlock  
-```
-```
+
 Fastboot reboot  
 ```
 
@@ -94,8 +92,7 @@ features:
 
 ```
 Fastboot flashing unlock
-```
-```
+
 fastboot reboot  
 ```
 
@@ -111,8 +108,7 @@ If you has not any PC, you can use Bugjaeger to flash custom recovery.
 
 ```
 Fastboot flash recovery [recovery.img]  
-```
-```
+
 fastboot reboot  
 ```
 
