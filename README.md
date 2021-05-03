@@ -28,7 +28,9 @@ You can unlock bootloader using Windows-Android or Android-Android method (Requi
 4. [PC] Hold the **Shift Key** and Right click on the Folder, Click on the **Open Command Window Here**  
 5. [MOB] Goto your Device **Settings > About Phone > Build Number** and press it about 7 times. Then find out into your Phone **Development Options** and turn on **USB Debugging**.  
 
-![Turning on the ADB USB Debugging in Developer Options](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/IMG_20210129_150703_465.jpg?raw=true) 
+<p align="center">
+<img src='https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/IMG_20210129_150703_465.jpg?raw=true' height='400' width='250') 
+</p>
 
 5. Now Connect your Android Device to your Computer using a USB cable.  
 6. [PC] Now type **ADB Devices** into the command Window.  
@@ -73,19 +75,27 @@ features:
 4. [HOST] If the OTG connected successfully then Bugjaeger will be opened automatically.  
 5. [HOST] In Bugjaeger, goto the **Command** Section, and then click on the **Reboot Bootloader**.  
 
-![Command Section, Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-153440_Bugjaeger.jpg?raw=true)
+<p align="center">
+<img src='https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-153440_Bugjaeger.jpg?raw=true' height='400' width='250') 
+</p>
 
 6. [HOST] While the device is opening into bootloader then another confirmation box may come there. Confirm it.  
 
-![Device Connected Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-142700_Bugjaeger.jpg?raw=true)
+<p align="center">
+<img src='https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-142700_Bugjaeger.jpg?raw=true' height='400' width='250') 
+</p>
 
 7. [HOST] When your Android Device is boot into FastBoot mode, goto in the **Fastboot** section and click on the **Fastboot Shell** button, It will open a command window.  
 
-![Fastboot Section, Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-153445_Bugjaeger.jpg?raw=true)
+<p align="center">
+<img src='https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-153445_Bugjaeger.jpg?raw=true' height='400' width='250') 
+</p>
 
 8. [HOST] Now type **ADB Devices** into the command Window.  
 
-![Fastboot Shell, Bugjaeger](https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-154836_Bugjaeger.jpg?raw=true)
+<p align="center">
+<img src='https://github.com/BiltuDas1/unlock-Bootloader/blob/main/Images/Screenshot_20210129-154836_Bugjaeger.jpg?raw=true' height='400' width='250') 
+</p>
 
 9. [HOST] If you see your Device code into the command window, It means the device is ready to use. If your Device is not listened there then check your Cable or OTG.  
 10. [HOST] If your device is ready to use then type the below commands.  
