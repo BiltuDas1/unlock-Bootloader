@@ -4,6 +4,7 @@
 # Unlock Bootloader
 Unlock bootloader into your Android Phone for installing Custom Roms.  
 
+Note : If your Device needs special unlock tool for Unlocking it's bootloader then this repository doesn't solve your Problem (You can make a issue if you has something problem with unlocking bootloader)  
 **Warning ⚠️ : By unlocking bootloader, Your Android Phone warranty may be void.**  
 
 # How to do?  
@@ -45,6 +46,7 @@ Fastboot flashing unlock
 
 Fastboot reboot  
 ```
+Edit : On some devices `Fastboot flashing unlock` doesn't work, they need to use `Fastboot OEM Unlock`.
 
 10. Now your Device will be started by factory resetting with unlocked bootloader.  
 
