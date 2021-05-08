@@ -107,6 +107,7 @@ Fastboot flashing unlock
 
 fastboot reboot  
 ```
+Edit : On some devices `Fastboot flashing unlock` doesn't work, they need to use `Fastboot OEM Unlock`.
 
 10. Now your Device's Bootloader is unlocked. 
 
