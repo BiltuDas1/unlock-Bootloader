@@ -126,6 +126,3 @@ fastboot reboot
 ```
 
 If you has not any recovery.img file, then you can download [TWRP](https://github.com/BiltuDas1/RootUnlocker/tree/main/TWRPAIO), just rename the file to recovery.img
-
-# Contact
-If you has any query then you can contact me at [Telegram](https://t.me/BiltuDas1)
