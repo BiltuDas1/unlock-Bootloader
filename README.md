@@ -1,6 +1,5 @@
 [![SL Scan](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml/badge.svg)](https://github.com/BiltuDas1/unlock-Bootloader/actions/workflows/shiftleft-analysis.yml)
 [![Open Source Helpers](https://www.codetriage.com/biltudas1/unlock-bootloader/badges/users.svg)](https://www.codetriage.com/biltudas1/unlock-bootloader)
-[![Donate](https://img.shields.io/badge/Buy%20me%20a-Coffee-blue.svg)](https://www.buymeacoffee.com/stopback)
 ```
 Please Note: The Repo doesn't work on Android 9 or Above.
 ```
@@ -130,6 +129,10 @@ fastboot reboot
 ```
 
 If you has not any recovery.img file, then you can download [TWRP](https://github.com/BiltuDas1/RootUnlocker/tree/main/TWRPAIO), just rename the file to recovery.img
-
+  
+# Donation
+If you like my work then you can support me by donating into following addresses.
+### BTC : bc1qegx9kwdln6ch3cxl39as3k3ezxu6rrg2533vnq
+  
 # Contact
 If you are interested then you can join into our telegram group [@techsouls0](https://t.me/techsouls0) or channel [@tecsouls](https://t.me/tecsouls)
